@@ -37,4 +37,4 @@ Dastur quyidagi shakllar bilan ishlay oladi:
 * **Matematik aniqlik:** Hisob-kitoblar uchun `Math` kutubxonasidan foydalanilgan.
 
 ## 🤝 Aloqa
-Agar siz
+Agar sizda savollar yoki takliflar bo'lsa, men bilan bog'lanishingiz mumkin!
