@@ -1,4 +1,7 @@
+https://github.com/user-attachments/assets/af6f3e19-03a1-41ec-9a27-a0988bdc602e
+
 # Geometrik Shakllar Kalkulyatori (C#)
+
 
 Ushbu konsol dasturi turli xil geometrik shakllarning o'lchamlarini (yuzi, perimetri, balandligi va h.k.) hisoblash uchun mo'ljallangan. Dastur o'zbek tilida muloqot qiladi va foydalanuvchi uchun qulay interfeysga ega.
 
