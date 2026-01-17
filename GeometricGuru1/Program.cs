@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         Console.WriteLine("\n ******************************************************** ");
-        Console.WriteLine(" ***    Geometrik shakllar o'lchamlarini xisoblash    *** ");
+        Console.WriteLine(" ***    Geometrik shakllar o'lchamlarini xisoblash !   *** ");
         Console.WriteLine(" ******************************************************** \n");
 
         bool savol = false;
